@@ -1,5 +1,16 @@
 console.log();
 
+console.log();
+console.log();
+console.log();
+console.log();
+console.log();
+
+console.log();
+console.log();
+console.log();
+
+
 
 한번 더 추가를 해볼게요 더하기
 
@@ -13,4 +24,10 @@ console.log();
 
 으아아아ㅏ아
 
+
 댕기바리
+
+
+ㅁㄴㅇㅁㄴㅇㅁㄴㅇ
+
+
